@@ -1,0 +1,69 @@
+1 – Overall KPIs
+
+Total Customers: 20
+Total Completed Orders: 54
+Total Revenue: 132700
+Average Order Value: 2457.41
+
+
+2 – Orders per Customer (Summary Insight)
+
+Customers with 4 orders: 5
+Customers with 3 orders: 6
+Customers with 2 orders: 7
+One-time customers: 2
+
+
+3 – Customer Type
+
+Repeat Customers: 18
+One-Time Customers: 2
+
+
+4 – Average Order Value
+
+Average Order Value: 2457.41
+
+
+5 – Top 5 Customers by Revenue
+
+Customer 4: 10700
+Customer 16: 10300
+Customer 9: 10000
+Customer 2: 9400
+Customer 8: 9200
+
+
+6 – Monthly Orders & Revenue Trend
+
+2024-03: Orders 6 | Revenue 17100
+2024-04: Orders 6 | Revenue 15100
+2024-05: Orders 9 | Revenue 21700
+2024-06: Orders 15 | Revenue 34600
+2024-07: Orders 11 | Revenue 25400
+2024-08: Orders 7 | Revenue 18800
+
+
+7 – Customer Lifetime Value (CLV)
+
+Highest CLV Customer: Customer 4 (10700)
+Lowest CLV Customer: Customer 11 (1800)
+
+
+8 – Customer Activity Span
+
+Longest Active Customer: Customer 8 (148 days)
+Shortest Active Customers: Customer 11, Customer 18 (0 days)
+
+
+9 – Inactive Customers (Last 60 Days)
+
+Customer 6 – Last Order: 2024-06-20
+Customer 14 – Last Order: 2024-05-30
+
+
+10 – Category Revenue
+
+Home: 97900
+Electronics: 93900
+Accessories: 63800
